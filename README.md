@@ -9,3 +9,8 @@ Dupla: Felipe Carvalho e Rogério Rodrigues
 
 **Dicionario de Dados:**
 
+**Tabela Func:**
+| Atributo | Tipo | Descrição |
+| -------- | ---- |---------- |
+|  |  |  |
+|  |  |  |
