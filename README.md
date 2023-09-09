@@ -31,3 +31,5 @@ Dupla: Felipe Carvalho e Rogério Rodrigues
 | Metas | Strign | Uma meta que o personagem tem no anime |
 | FunId | Int | Chave estrgeira da tabela Funcs |
 | PoderId | Int | Chave estrgeira da tabela Poders |
+
+**Funcionamento da API:**
