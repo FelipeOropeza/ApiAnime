@@ -9,8 +9,25 @@ Dupla: Felipe Carvalho e Rogério Rodrigues
 
 **Dicionario de Dados:**
 
-**Tabela Func:**
+**Tabela Funcs:**
 | Atributo | Tipo | Descrição |
 | -------- | ---- |---------- |
-|  |  |  |
-|  |  |  |
+| Id | Int | Indentificação da tabela |
+| TipoFunc | Strign | Tipo de função que o personagem tem |
+
+**Tabela Poders:**
+| Atributo | Tipo | Descrição |
+| -------- | ---- |---------- |
+| Id | Int | Indentificação da tabela |
+| Resp | Strign | A respiração (Indica uma habilidade no Anime) que o personagem tem ou não |
+
+**Tabela Persos:**
+| Atributo | Tipo | Descrição |
+| -------- | ---- |---------- |
+| Id | Int | Indentificação da tabela |
+| Nome | Strign | Indica o nome do personagem |
+| Origem | Strign | De que Anime o personagem é |
+| Apelido | Strign | Apelido do personagem |
+| Metas | Strign | Uma meta que o personagem tem no anime |
+| FunId | Int | Chave estrgeira da tabela Funcs |
+| PoderId | Int | Chave estrgeira da tabela Poders |
