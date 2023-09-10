@@ -98,6 +98,7 @@ Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquis
 O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e também seu corpo json, e logo depois de fazer a atualização é retornado ela
 
 ![Poder_put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/ebf8c36d-311c-475a-af84-7b67cea2f611)
+
 ![Poder_put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/a9d0dc67-f83a-45fd-9e82-1f4f5a0acf7a)
 
 
@@ -131,6 +132,7 @@ A preencher o dados indicados, menos o ID que vai ser gerado pelo banco, a API v
 
 **Metodo GET com parametro:**
 Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquisa, que nesse caso vai ser pelo ID
+
 ![Perso_get_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/0a50d8cc-5b20-408c-849e-4dc7df9304bc)
 
 ![Perso_get_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/7da48917-f3f5-4534-9381-a951e28e931d)
