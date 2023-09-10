@@ -33,3 +33,9 @@ Dupla: Felipe Carvalho e Rogério Rodrigues
 | PoderId | Int | Chave estrgeira da tabela Poders |
 
 **Funcionamento da API:**
+
+**Tabela Funcs:**
+![Func_Geral](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/17ed0aab-3124-4cd4-b763-cd30b024f706)
+
+**Metodo GET:**
+
