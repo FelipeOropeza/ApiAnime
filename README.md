@@ -59,4 +59,8 @@ Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquis
 ![Fun_Get_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/626aee19-49dc-45de-a770-3dddca5d9b41)
 
 **Metodo PUT:**
-O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e seu corpo json
+O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e também seu corpo json, e logo depois de fazer a atualização é retornado ela
+
+![Fun_Put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/e4c83cc3-62ef-4069-8016-2119dec06ac2)
+![Fun_Put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/cae8cedd-0f92-40a0-9fb4-9a03f928430e)
+
