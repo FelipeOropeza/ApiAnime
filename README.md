@@ -113,7 +113,9 @@ O metodo DELETE apaga o registro no banco, precisando indica o ID do dado
 O metodo GET após ser executado vai trazer todos os registros que tem no banco de dados
 ![Perso_get1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/2f5e6775-9053-4b91-8289-4d0dbc88d329)
 ![Perso_get2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/1c859a3c-6446-4414-98c3-888598445bb3)
+
 ![Perso_get3](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/6fc190b9-36f3-4042-86e5-edbec6729abd)
+
 ![Perso_get4](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/5c3bcfd4-ccf1-49d8-b142-b64d6672f72f)
 
 **Metodo POST:**
@@ -130,13 +132,16 @@ A preencher o dados indicados, menos o ID que vai ser gerado pelo banco, a API v
 **Metodo GET com parametro:**
 Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquisa, que nesse caso vai ser pelo ID
 ![Perso_get_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/0a50d8cc-5b20-408c-849e-4dc7df9304bc)
+
 ![Perso_get_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/7da48917-f3f5-4534-9381-a951e28e931d)
 
 **Metodo PUT:**
 O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e também seu corpo json, e logo depois de fazer a atualização é retornado ela. **OBS:** PoderId e FuncId são chave estrageiras de outra tabela, se for atualiza elas é preciso apaga o atributos que vem junto com ela e mudar apenas o ID
 
 ![Perso_put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/2e889d11-2ace-404a-a57f-26c260935f15)
+
 ![Perso_put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/ebbac578-2c1c-462f-88c5-51daab324373)
+
 ![Perso_put_3](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/6aed8682-9e65-40af-8dd7-9ada73b00525)
 
 
