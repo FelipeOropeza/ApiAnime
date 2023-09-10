@@ -79,12 +79,12 @@ O metodo GET após ser executado vai trazer todos os registros que tem no banco 
 **Metodo POST:**
 O metodo POST vai fazer a inserção de dados na API, pra isso deve ser seguido o esquema trazido pelo json, indicando o que deve ser inserido
 
-![Func_Post](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/651d9d5d-f453-45e3-a73e-34a939e772a0)
+![Poder_Post_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/70d04dfa-1629-45b0-b5ae-3245c294af74)
 
 A preencher o dados indicados, menos o ID que vai ser gerado pelo banco, a API vai cadastras essa informação no banco de dados
 
-![Func_Post_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/632d31dc-8601-4f97-9098-a886154d1ea9)
-![Func_Post_3](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/129e9e02-18ca-44be-bf2c-2e30be2baa15)
+![Poder_Post_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/2893318d-7d96-4667-b8b4-1692b4a62344)
+![Poder_Post_3](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/c26b9fac-b917-49ad-9ca2-8d861b5cad91)
 
 **Metodo GET com parametro:**
 Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquisa, que nesse caso vai ser pelo ID
