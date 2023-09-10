@@ -64,3 +64,8 @@ O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo
 ![Fun_Put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/e4c83cc3-62ef-4069-8016-2119dec06ac2)
 ![Fun_Put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/cae8cedd-0f92-40a0-9fb4-9a03f928430e)
 
+**Metodo DELETE:**
+O metodo DELETE apaga o registro no banco, precisando indica o ID do dado
+
+![Func_delete](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/842f8489-6919-49dd-8aa6-f37ade0e25ee)
+![Func_delete_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/ec14cc48-1458-44e2-bbcf-4be38848b6d5)
