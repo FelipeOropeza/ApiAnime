@@ -40,6 +40,7 @@ Nas tabelas da api estão disponiveis todos os metodos do CRUD, que seriam o GET
 **Metodo GET:**
 O metodo GET após ser executado vai trazer todos os registros que tem no banco de dados
 ![Fun_Get](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/54ab9aac-51ac-44b7-bfbe-26c98c46f0ea)
+
 **Metodo POST:**
 O metodo POST vai fazer a inserção de dados na API, pra isso deve ser seguido o esquema trazido pelo json, indicando o que deve ser inserido
 ![Func_Post](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/651d9d5d-f453-45e3-a73e-34a939e772a0)
