@@ -33,6 +33,7 @@ Dupla: Felipe Carvalho e Rogério Rodrigues
 | PoderId | Int | Chave estrgeira da tabela Poders |
 
 **Funcionamento da API:**
+
 Nas tabelas da api estão disponiveis todos os metodos do CRUD, que seriam o GET, POST, PUT, DELETE, que nada mais seria que leitura, inserção, atualizacão e exclusão 
 
 **Tabela Funcs:**
@@ -45,3 +46,9 @@ O metodo GET após ser executado vai trazer todos os registros que tem no banco 
 O metodo POST vai fazer a inserção de dados na API, pra isso deve ser seguido o esquema trazido pelo json, indicando o que deve ser inserido
 
 ![Func_Post](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/651d9d5d-f453-45e3-a73e-34a939e772a0)
+
+A preencher o dados indicados, menos o ID que vai ser gerado pelo banco, a API vai cadastras essa informação no banco de dados
+
+![Func_Post_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/632d31dc-8601-4f97-9098-a886154d1ea9)
+![Func_Post_3](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/129e9e02-18ca-44be-bf2c-2e30be2baa15)
+
