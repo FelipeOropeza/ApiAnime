@@ -89,11 +89,17 @@ A preencher o dados indicados, menos o ID que vai ser gerado pelo banco, a API v
 **Metodo GET com parametro:**
 Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquisa, que nesse caso vai ser pelo ID
 
-![Fun_Get_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/375980f0-706b-48c2-b8c3-b602aafffde1)
-![Fun_Get_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/626aee19-49dc-45de-a770-3dddca5d9b41)
+![Poder_get_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/c14547cb-6ba0-4147-93b4-b1e27938d7e4)
+![Poder_get_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/7d487dbb-7ff7-448d-8b47-216c22b3641b)
 
 **Metodo PUT:**
 O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e também seu corpo json, e logo depois de fazer a atualização é retornado ela
 
 ![Fun_Put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/e4c83cc3-62ef-4069-8016-2119dec06ac2)
 ![Fun_Put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/cae8cedd-0f92-40a0-9fb4-9a03f928430e)
+
+**Metodo DELETE:**
+O metodo DELETE apaga o registro no banco, precisando indica o ID do dado
+
+![Func_delete](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/842f8489-6919-49dd-8aa6-f37ade0e25ee)
+![Func_delete_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/ec14cc48-1458-44e2-bbcf-4be38848b6d5)
