@@ -95,8 +95,9 @@ Esse metodo é igual o GET, mais agora vamos indica um parâmetro para a pesquis
 **Metodo PUT:**
 O metodo PUT vai servir pra atualizar algum registro já existente na API, sendo preciso indicar o ID do registro que pode ser obtido pelo metodo GET e também seu corpo json, e logo depois de fazer a atualização é retornado ela
 
-![Fun_Put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/e4c83cc3-62ef-4069-8016-2119dec06ac2)
-![Fun_Put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/cae8cedd-0f92-40a0-9fb4-9a03f928430e)
+![Poder_put_1](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/ebf8c36d-311c-475a-af84-7b67cea2f611)
+![Poder_put_2](https://github.com/FelipeOropeza/ApiAnime/assets/101806766/a9d0dc67-f83a-45fd-9e82-1f4f5a0acf7a)
+
 
 **Metodo DELETE:**
 O metodo DELETE apaga o registro no banco, precisando indica o ID do dado
